@@ -1,0 +1,21 @@
+List of techniqes are Rails Advance														
+1. Nested Attribute	
+2. Batch Update
+3. form_for/fields_for
+4. call back function
+5. marcro
+6. Ajax
+7. Seed
+8. RESTful
+9. has_many/has_one/belongs_to
+10. Gem devise
+11. Transaction
+12. many to many relation
+13. resource
+14. CSV
+15. reject_if
+16. Pretty URL	
+17. coffee
+18. allow destroy with nested attribute	
+19. scope
+20. search form
