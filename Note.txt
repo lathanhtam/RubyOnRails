@@ -19,3 +19,29 @@ List of techniqes are Rails Advance
 18. allow destroy with nested attribute	
 19. scope
 20. search form
+
+
+9 steps to work with git on framgia
+
+1. fork
+2. clone
+3. remote add framgia
+4. checkout framgia develop
+	I.
+	   git checkout -b develop
+	   git pull framgia develop
+	II.
+	  fetch framgia
+	  checkout framgia/develop
+	  checkout -b develop
+5. checkout -b new_branch
+6. add/commit
+7. rebase
+	checkout develop
+	pull framgia develop
+	checkout new_branch
+	rebase develop
+8. push origin new_branch
+9. make pull request
+
+
